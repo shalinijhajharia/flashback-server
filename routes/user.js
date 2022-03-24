@@ -64,7 +64,7 @@ router.put("/forgot",async (req, res,next)=>{
             Token: <b>${secretToken}</b>
             <br/>
             On the following page:
-            <a href="http://localhost:3000/verify">https://flashback-client2022.netlify.app/verify</a>
+            <a href="https://flashback-client2022.netlify.app/verify">https://flashback-client2022.netlify.app/verify</a>
             <br/><br/>
             Have a pleasant day.` 
 
